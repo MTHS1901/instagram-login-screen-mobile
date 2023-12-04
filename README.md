@@ -1,4 +1,1 @@
-# instagram-mobile-xploit
-### LOGIN SCRREN Created By MTHS1901
-#### PLAY WITH IT: https://www.w3schools.com/code/tryit.asp?filename=GOCEHBUD4RT6
-### MORE INFO I ADD SOON...
+Project discontinued, I only provide the HTML with the login page here, I am not responsible for its use.
